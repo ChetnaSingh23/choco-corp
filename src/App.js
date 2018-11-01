@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -121,6 +122,7 @@ class Login extends React.Component {
       <div>
         <p>You must log in to view the page</p>
         <button onClick={this.login}>Log in</button>
+
       </div>
     );
   }
